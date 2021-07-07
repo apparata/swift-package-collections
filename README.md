@@ -3,6 +3,14 @@
 
 The Apparata's Swift package collection JSON files can be added to Xcode from this repository.
 
+### Adding the Collections to Xcode
+
+Each JSON file in the root of the repository is a package collection specification. You can add them to Xcode using raw file github URLs, e.g. for the UI collection:
+
+```
+https://raw.githubusercontent.com/apparata/swift-package-collections/main/apparata-ui.json
+```
+
 ### Generating the Collections
 
 ### Install the Generator
