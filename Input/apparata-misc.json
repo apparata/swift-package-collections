@@ -1,0 +1,13 @@
+{
+    "name": "Apparata Miscellaneous Packages",
+    "overview": "This collection contains Apparata's open source miscellaneous packages.",
+    "keywords": [
+        "apparata"
+    ],
+    "packages": [
+        { "url": "https://github.com/apparata/PDFToolbox.git" },
+    ],
+    "author": {
+        "name": "Martin Johannesson"
+    }
+}
