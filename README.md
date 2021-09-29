@@ -26,5 +26,13 @@ $ mint install apple/swift-package-collection-generator@main
 Run the generator like so in the root of the repository:
 
 ```bash
-$ package-collection-generate Input/apparata-<variant>.json ./apparata-<variant>.json --auth-token <github personal auth token>
+$ package-collection-generate Input/apparata-<variant>.json Unsigned/apparata-<variant>.json --auth-token <github personal auth token>
+```
+
+### Sign
+
+Temporarily copy `key.pem` and `swift_package.cer` from safe-keeping to this directory and run:
+
+```bash
+$ package-collection-sign Unsigned/apparata-<variant>.json apparata-<variant>.json key.pem swift_package.cer
 ```
