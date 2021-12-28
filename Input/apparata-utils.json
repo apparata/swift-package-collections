@@ -5,6 +5,7 @@
         "apparata"
     ],
     "packages": [
+        { "url": "https://github.com/apparata/AssetCatalogKit.git" },
         { "url": "https://github.com/apparata/BinaryDataKit.git" },
         { "url": "https://github.com/apparata/CollectionKit.git" },
         { "url": "https://github.com/apparata/Componentized.git" },
