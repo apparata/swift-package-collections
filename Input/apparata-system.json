@@ -9,6 +9,7 @@
         { "url": "https://github.com/apparata/ConsoleKit.git" },
         { "url": "https://github.com/apparata/ProjectKit.git" },
         { "url": "https://github.com/apparata/SQLiteKit.git" },
+        { "url": "https://github.com/apparata/SQLizer.git" },
         { "url": "https://github.com/apparata/SystemKit.git" },
         { "url": "https://github.com/apparata/Zipcode.git" }
     ],
