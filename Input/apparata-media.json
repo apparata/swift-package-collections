@@ -6,6 +6,7 @@
     ],
     "packages": [
         { "url": "https://github.com/apparata/AutoComposerKit.git" },
+        { "url": "https://github.com/apparata/FrameRecorder.git" },
         { "url": "https://github.com/apparata/MIDISequencer.git" }
     ],
     "author": {
