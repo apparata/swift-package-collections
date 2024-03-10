@@ -14,4 +14,5 @@ https://raw.githubusercontent.com/apparata/swift-package-collections/main/appara
 https://raw.githubusercontent.com/apparata/swift-package-collections/main/apparata-system.json
 https://raw.githubusercontent.com/apparata/swift-package-collections/main/apparata-ui.json
 https://raw.githubusercontent.com/apparata/swift-package-collections/main/apparata-utils.json
+https://raw.githubusercontent.com/apparata/swift-package-collections/main/apparata-visionos.json
 ```
